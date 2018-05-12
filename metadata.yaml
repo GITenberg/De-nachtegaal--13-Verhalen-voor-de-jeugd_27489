@@ -1,0 +1,28 @@
+_repo: De-nachtegaal--13-Verhalen-voor-de-jeugd_27489
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schmid, Christoph von
+    alias: Von Schmid, Christoph
+    birthdate: 1768
+    deathdate: 1854
+    gutenberg_agent_id: '5355'
+    url: http://www.gutenberg.org/2009/agents/5355
+description: ''
+gutenberg_issued: '2008-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27489'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sunday school literature'
+- !lcc 'PZ'
+- !lcc 'PT'
+title: "De nachtegaal\r\nVerhalen voor de jeugd"
+url: http://www.gutenberg.org/ebooks/27489
